@@ -1,0 +1,1104 @@
+year,opponent,venue,result,UM_score,opp_score,date,time
+2024,Fresno State,Home,W,30,10,Aug 31 (Sat),7:30 PM
+2024,#3 Texas,Home,L,12,31,Sep 7 (Sat),Noon
+2024,Arkansas State,Home,W,28,18,Sep 14 (Sat),Noon
+2024,#11 USC,Home,W,27,24,Sep 21 (Sat),3:30 PM
+2024,Minnesota,Home,W,27,24,Sep 28 (Sat),Noon
+2024,Washington,Away,L,17,27,Oct 5 (Sat),4:30 PM PT
+2024,#22 Illinois,Away,L,7,21,Oct 19 (Sat),2:30 PM CT
+2024,Michigan State,Home,W,24,17,Oct 26 (Sat),7:30 PM
+2024,#1 Oregon,Home,L,17,38,Nov 2 (Sat),3:30 PM
+2024,#8 Indiana,Away,L,15,20,Nov 9 (Sat),3:30 PM
+2024,Northwestern,Home,W,50,6,Nov 23 (Sat),3:30 PM
+2024,#2 Ohio State,Away,W,13,10,Nov 30 (Sat),Noon
+2024,#11 Alabama,,W,19,13,Dec 31 (Tue),Noon
+2023,East Carolina,Home,W,30,3,Sep 2 (Sat),Noon
+2023,UNLV,Home,W,35,7,Sep 9 (Sat),3:30 PM
+2023,Bowling Green,Home,W,31,6,Sep 16 (Sat),7:30 PM
+2023,Rutgers,Home,W,31,7,Sep 23 (Sat),12:00 PM
+2023,Nebraska,Away,W,45,7,Sep 30 (Sat),2:30 PM CT
+2023,Minnesota,Away,W,52,10,Oct 7 (Sat),6:30 PM CT
+2023,Indiana,Home,W,52,7,Oct 14 (Sat),Noon
+2023,Michigan State,Away,W,49,0,Oct 21 (Sat),7:30 PM
+2023,Purdue,Home,W,41,13,Nov 4 (Sat),7:30 PM
+2023,#9 Penn State,Away,W,24,15,Nov 11 (Sat),Noon
+2023,Maryland,Away,W,31,24,Nov 18 (Sat),Noon
+2023,#2 Ohio State,Home,W,30,24,Nov 25 (Sat),Noon
+2023,#18 Iowa,,W,26,0,Dec 2 (Sat),8:00 PM
+2023,#4 Alabama,,W,27,20,Jan 1 (Mon),2:10 PM PST
+2023,#2 Washington,,W,34,13,Jan 8 (Mon),6:30 PM CT
+2023,Maize vs. Blue Spring Game,Home,,,,Apr 20 (Sat),Noon
+2022,Colorado State,Home,W,51,7,Sep 3 (Sat),Noon
+2022,Hawai'i,Home,W,56,10,Sep 10 (Sat),8:00 PM
+2022,UConn,Home,W,59,0,Sep 17 (Sat),Noon
+2022,Maryland,Home,W,34,27,Sep 24 (Sat),Noon
+2022,Iowa,Away,W,27,14,Oct 1 (Sat),11:00 AM CT
+2022,Indiana,Away,W,31,10,Oct 8 (Sat),Noon
+2022,#10 Penn State,Home,W,41,17,Oct 15 (Sat),Noon
+2022,Michigan State,Home,W,29,7,Oct 29 (Sat),7:30 PM
+2022,Rutgers,Away,W,52,17,Nov 5 (Sat),7:30 PM
+2022,Nebraska,Home,W,34,3,Nov 12 (Sat),3:30 PM
+2022,Illinois,Home,W,19,17,Nov 19 (Sat),Noon
+2022,#2 Ohio State,Away,W,45,23,Nov 26 (Sat),Noon
+2022,Purdue,,W,43,22,Dec 3 (Sat),8:00 PM
+2022,#3 TCU,,L,45,51,Dec 31 (Sat),2:00 PM MT
+2022,Maize and Blue Spring Game,Home,,,,Apr 1 (Sat),3:00 PM
+2021,Western Michigan,Home,W,47,14,Sep 4 (Sat),Noon
+2021,Washington,Home,W,31,10,Sep 11 (Sat),8:00 PM
+2021,Northern Illinois,Home,W,63,10,Sep 18 (Sat),Noon
+2021,Rutgers,Home,W,20,13,Sep 25 (Sat),3:30 PM
+2021,Wisconsin,Away,W,38,17,Oct 2 (Sat),11:00 AM CT
+2021,Nebraska,Away,W,32,29,Oct 9 (Sat),6:30 PM CT
+2021,Northwestern,Home,W,33,7,Oct 23 (Sat),Noon
+2021,#8 Michigan State,Away,L,33,37,Oct 30 (Sat),Noon
+2021,Indiana,Home,W,29,7,Nov 6 (Sat),7:30 PM
+2021,#23 Penn State,Away,W,21,17,Nov 13 (Sat),Noon
+2021,Maryland,Away,W,59,18,Nov 20 (Sat),3:30 PM
+2021,#2 Ohio State,Home,W,42,27,Nov 27 (Sat),Noon
+2021,#15 Iowa,,W,42,3,Dec 4 (Sat),8:00 PM
+2021,#3 Georgia,,L,11,34,Dec 31 (Fri),7:30 PM
+2021,Maize and Blue Spring Game,,,,,Apr 2 (Sat),Noon
+2020,#21 Minnesota,Away,W,49,24,Oct 24 (Sat),6:30 PM CT
+2020,Michigan State,Home,L,24,27,Oct 31 (Sat),Noon
+2020,#13 Indiana,Away,L,21,38,Nov 7 (Sat),Noon
+2020,#13 Wisconsin,Home,L,11,49,Nov 14 (Sat),7:30 PM
+2020,Rutgers,Away,W,48,42,Nov 21 (Sat),7:30 PM
+2020,Penn State,Home,L,17,27,Nov 28 (Sat),Noon
+2020,Maryland,Home,,,,Dec 5 (Sat),3:30 PM
+2020,#3 Ohio State,Away,,,,Dec 12 (Sat),Noon
+2020,#18 Iowa,Away,,,,Dec 19 (Sat),6:00 PM CT
+2019,Middle Tennessee State,Home,W,40,21,Aug 31 (Sat),7:30 PM
+2019,Army,Home,W,24,21,Sep 7 (Sat),Noon
+2019,#13 Wisconsin,Away,L,14,35,Sep 21 (Sat),11:00 AM CT
+2019,Rutgers,Home,W,52,0,Sep 28 (Sat),Noon
+2019,#14 Iowa - Homecoming,Home,W,10,3,Oct 5 (Sat),Noon
+2019,Illinois,Away,W,42,25,Oct 12 (Sat),11:00 AM CT
+2019,#7 Penn State,Away,L,21,28,Oct 19 (Sat),7:30 PM
+2019,#8 Notre Dame,Home,W,45,14,Oct 26 (Sat),7:30 PM
+2019,Maryland,Away,W,38,7,Nov 2 (Sat),Noon
+2019,Michigan State,Home,W,44,10,Nov 16 (Sat),Noon
+2019,Indiana,Away,W,39,14,Nov 23 (Sat),3:30 PM
+2019,#2 Ohio State,Home,L,27,56,Nov 30 (Sat),Noon
+2019,#9 Alabama,,L,16,35,Jan 1 (Wed),1:00 PM
+2019,Open Practice,,,,,Apr 18 (Sat),Noon
+2018,#12 Notre Dame,Away,L,17,24,Sep 1 (Sat),7:30 PM
+2018,Western Michigan,Home,W,49,3,Sep 8 (Sat),Noon
+2018,SMU,Home,W,45,20,Sep 15 (Sat),3:30 PM
+2018,Nebraska,Home,W,56,10,Sep 22 (Sat),Noon
+2018,Northwestern,Away,W,20,17,Sep 29 (Sat),3:30 PM CT
+2018,Maryland,Home,W,42,21,Oct 6 (Sat),Noon
+2018,#15 Wisconsin,Home,W,38,13,Oct 13 (Sat),7:30 PM
+2018,#24 Michigan State,Away,W,21,7,Oct 20 (Sat),Noon
+2018,#14 Penn State,Home,W,42,7,Nov 3 (Sat),3:45 PM
+2018,Rutgers,Away,W,42,7,Nov 10 (Sat),3:30 PM
+2018,Indiana,Home,W,31,20,Nov 17 (Sat),4:00 PM
+2018,#10 Ohio State,Away,L,39,62,Nov 24 (Sat),Noon
+2018,#10 Florida,,L,15,41,Dec 29 (Sat),Noon
+2018,Spring Game,Home,,,,Apr 13 (Sat),5:00 PM
+2017,#17 Florida,,W,33,17,Sep 2 (Sat),2:30 PM CT
+2017,Cincinnati,Home,W,36,14,Sep 9 (Sat),Noon
+2017,Air Force,Home,W,29,13,Sep 16 (Sat),Noon
+2017,Purdue,Away,W,28,10,Sep 23 (Sat),4:00 PM
+2017,Michigan State,Home,L,10,14,Oct 7 (Sat),7:30 PM
+2017,Indiana,Away,W,27,20,Oct 14 (Sat),Noon
+2017,#2 Penn State,Away,L,13,42,Oct 21 (Sat),7:30 PM
+2017,Rutgers,Home,W,35,14,Oct 28 (Sat),Noon
+2017,Minnesota,Home,W,33,10,Nov 4 (Sat),7:30 PM
+2017,Maryland,Away,W,35,10,Nov 11 (Sat),3:30 PM
+2017,#5 Wisconsin,Away,L,10,24,Nov 18 (Sat),11:00 AM CT
+2017,#8  Ohio State,Home,L,20,31,Nov 25 (Sat),Noon
+2017,South Carolina,,L,19,26,Jan 1 (Mon),Noon
+2017,Spring Game,Home,,,,Apr 14 (Sat),5:45 PM
+2016,Hawaii,Home,W,63,3,Sep 3 (Sat),Noon
+2016,Central Florida,Home,W,51,14,Sep 10 (Sat),Noon
+2016,Colorado,Home,W,45,28,Sep 17 (Sat),3:30 PM
+2016,Penn State,Home,W,49,10,Sep 24 (Sat),3:30 PM
+2016,#8 Wisconsin,Home,W,14,7,Oct 1 (Sat),3:30 PM
+2016,Rutgers,Away,W,78,0,Oct 8 (Sat),7:00 PM
+2016,Illinois,Home,W,41,8,Oct 22 (Sat),3:30 PM
+2016,Michigan State,Away,W,32,23,Oct 29 (Sat),Noon
+2016,Maryland,Home,W,59,3,Nov 5 (Sat),3:30 PM
+2016,Iowa,Away,L,13,14,Nov 12 (Sat),7:00 PM CT
+2016,Indiana,Home,W,20,10,Nov 19 (Sat),3:30 PM
+2016,#2 Ohio State,Away,L,27,30,Nov 26 (Sat),Noon
+2016,#10 Florida State,,L,32,33,Dec 30 (Fri),8:00 PM
+2016,Spring Game,Home,,,,Apr 15 (Sat),1:00 PM
+2015,Utah,Away,L,17,24,Sep 3 (Thu),6:30 PM MT
+2015,Oregon State,Home,W,35,7,Sep 12 (Sat),Noon
+2015,UNLV,Home,W,28,7,Sep 19 (Sat),Noon
+2015,#22 Brigham Young,Home,W,31,0,Sep 26 (Sat),Noon
+2015,Maryland,Away,W,28,0,Oct 3 (Sat),Noon
+2015,#13 Northwestern,Home,W,38,0,Oct 10 (Sat),3:30 PM
+2015,#7 Michigan State,Home,L,23,27,Oct 17 (Sat),3:30 PM
+2015,Minnesota,Away,W,29,26,Oct 31 (Sat),6:00 PM CT
+2015,Rutgers,Home,W,49,16,Nov 7 (Sat),3:30 PM
+2015,Indiana,Away,W,48,41,Nov 14 (Sat),3:30 PM
+2015,Penn State,Away,W,28,16,Nov 21 (Sat),Noon
+2015,#8 Ohio State,Home,L,13,42,Nov 28 (Sat),Noon
+2015,#19 Florida,,W,41,7,Jan 1 (Fri),1:00 PM
+2015,Spring Game,Home,,,,Apr 1 (Fri),6:20 PM
+2014,Appalachian State,Home,W,52,14,Aug 30 (Sat),Noon
+2014,#16 Notre Dame,Away,L,0,31,Sep 6 (Sat),7:30 PM
+2014,Miami (Ohio),Home,W,34,10,Sep 13 (Sat),3:30 PM
+2014,Utah,Home,L,10,26,Sep 20 (Sat),3:30 PM
+2014,Minnesota,Home,L,14,30,Sep 27 (Sat),3:30 PM
+2014,Rutgers,Away,L,24,26,Oct 4 (Sat),7:00 PM
+2014,Penn State,Home,W,18,13,Oct 11 (Sat),7:00 PM
+2014,#8 Michigan State,Away,L,11,35,Oct 25 (Sat),3:30 PM
+2014,Indiana,Home,W,34,10,Nov 1 (Sat),3:30 PM
+2014,Northwestern,Away,W,10,9,Nov 8 (Sat),2:30 PM CT
+2014,Maryland,Home,L,16,23,Nov 22 (Sat),3:30 PM
+2014,#7 Ohio State,Away,L,28,42,Nov 29 (Sat),Noon
+2014,Spring Game,Home,,,,Apr 4 (Sat),Noon
+2013,Central Michigan,Home,W,59,9,Aug 31 (Sat),3:30 PM
+2013,#14 Notre Dame,Home,W,41,30,Sep 7 (Sat),8:00 PM
+2013,Akron,Home,W,28,24,Sep 14 (Sat),Noon
+2013,Connecticut,Away,W,24,21,Sep 21 (Sat),8:00 PM
+2013,Minnesota,Home,W,42,13,Oct 5 (Sat),3:30 PM
+2013,Penn State,Away,L,40,43,Oct 12 (Sat),5:00 PM
+2013,Indiana,Home,W,63,47,Oct 19 (Sat),3:30 PM
+2013,#24 Michigan State,Away,L,6,29,Nov 2 (Sat),3:30 PM
+2013,Nebraska,Home,L,13,17,Nov 9 (Sat),3:30 PM
+2013,Northwestern,Away,W,27,19,Nov 16 (Sat),2:30 PM CT
+2013,Iowa,Away,L,21,24,Nov 23 (Sat),11:00 AM CT
+2013,#3 Ohio State,Home,L,41,42,Nov 30 (Sat),Noon
+2013,Kansas State,,L,14,31,Dec 28 (Sat),8:15 PM MT
+2013,Spring Game,Home,,,,Apr 5 (Sat),2:00 PM
+2012,#2 Alabama,,L,14,41,Sep 1 (Sat),7:00 PM CT
+2012,Air Force,Home,W,31,25,Sep 8 (Sat),3:30 PM
+2012,Massachusetts,Home,W,63,13,Sep 15 (Sat),3:30 PM
+2012,#11 Notre Dame,Away,L,6,13,Sep 22 (Sat),7:30 PM
+2012,Purdue,Away,W,44,13,Oct 6 (Sat),4:00 PM
+2012,Illinois,Home,W,45,0,Oct 13 (Sat),3:30 PM
+2012,Michigan State,Home,W,12,10,Oct 20 (Sat),3:30 PM
+2012,Nebraska,Away,L,9,23,Oct 27 (Sat),7:00 PM CT
+2012,Minnesota,Away,W,35,13,Nov 3 (Sat),11:00 AM CT
+2012,Northwestern,Home,W,38,31,Nov 10 (Sat),Noon
+2012,Iowa,Home,W,42,17,Nov 17 (Sat),Noon
+2012,#4 Ohio State,Away,L,21,26,Nov 24 (Sat),Noon
+2012,#11 South Carolina,,L,28,33,Jan 1 (Tue),1:00 PM
+2012,Alumni Flag Football,Home,,,,Apr 13 (Sat),11:00 AM
+2012,Spring Game,Home,,,,Apr 13 (Sat),12:30 PM
+2011,Western Michigan,Home,W,34,10,Sep 3 (Sat),3:30 PM
+2011,Notre Dame,Home,W,35,31,Sep 10 (Sat),8:00 PM
+2011,Eastern Michigan,Home,W,31,3,Sep 17 (Sat),Noon
+2011,San Diego State,Home,W,28,7,Sep 24 (Sat),Noon
+2011,Minnesota,Home,W,58,0,Oct 1 (Sat),Noon
+2011,Northwestern,Away,W,42,24,Oct 8 (Sat),6:00 PM CT
+2011,#23 Michigan State,Away,L,14,28,Oct 15 (Sat),Noon
+2011,Purdue,Home,W,36,14,Oct 29 (Sat),Noon
+2011,Iowa,Away,L,16,24,Nov 5 (Sat),11:00 AM CT
+2011,Illinois,Away,W,31,14,Nov 12 (Sat),2:30 PM CT
+2011,#17 Nebraska,Home,W,45,17,Nov 19 (Sat),Noon
+2011,Ohio State,Home,W,40,34,Nov 26 (Sat),Noon
+2011,#17 Virginia Tech,,W,23,20,Jan 3 (Tue),7:30 PM CT
+2010,Connecticut,Home,W,30,10,Sep 4 (Sat),3:30 PM
+2010,Notre Dame,Away,W,28,24,Sep 11 (Sat),3:30 PM
+2010,Massachusetts,Home,W,42,37,Sep 18 (Sat),Noon
+2010,Bowling Green,Home,W,65,21,Sep 25 (Sat),Noon
+2010,Indiana,Away,W,42,35,Oct 2 (Sat),3:30 PM
+2010,#17 Michigan State,Home,L,17,34,Oct 9 (Sat),3:30 PM
+2010,#15 Iowa,Home,L,28,38,Oct 16 (Sat),3:30 PM
+2010,Penn State,Away,L,31,41,Oct 30 (Sat),8:00 PM
+2010,Illinois,Home,W,67,65,Nov 6 (Sat),Noon
+2010,Purdue,Away,W,27,16,Nov 13 (Sat),Noon
+2010,#6 Wisconsin,Home,L,28,48,Nov 20 (Sat),Noon
+2010,#8 Ohio State,Away,L,7,37,Nov 27 (Sat),Noon
+2010,#21 Mississippi State,,L,14,52,Jan 1 (Sat),1:30 PM
+2010,Mott Spring Game,Home,,,,Apr 16 (Sat),Noon
+2009,Western Michigan,Home,W,31,7,Sep 5 (Sat),3:30 PM
+2009,#18 Notre Dame,Home,W,38,34,Sep 12 (Sat),3:30 PM
+2009,Eastern Michigan,Home,W,45,17,Sep 19 (Sat),Noon
+2009,Indiana,Home,W,36,33,Sep 26 (Sat),Noon
+2009,Michigan State,Away,L,20,26,Oct 3 (Sat),Noon
+2009,#12 Iowa,Away,L,28,30,Oct 10 (Sat),7:12 PM CT
+2009,Delaware State,Home,W,63,6,Oct 17 (Sat),Noon
+2009,#13 Penn State,Home,L,10,35,Oct 24 (Sat),3:30 PM
+2009,Illinois,Away,L,13,38,Oct 31 (Sat),2:30 PM CT
+2009,Purdue,Home,L,36,38,Nov 7 (Sat),Noon
+2009,#21 Wisconsin,Away,L,24,45,Nov 14 (Sat),11:00 AM CT
+2009,#9 Ohio State,Home,L,10,21,Nov 21 (Sat),Noon
+2009,Spring Game,Home,,,,Apr 17 (Sat),1:00 PM
+2008,Utah,Home,L,23,25,Aug 30 (Sat),3:30 PM
+2008,Miami (Ohio),Home,W,16,6,Sep 6 (Sat),Noon
+2008,Notre Dame,Away,L,17,35,Sep 13 (Sat),3:30 PM
+2008,#9 Wisconsin,Home,W,27,25,Sep 27 (Sat),3:30 PM
+2008,Illinois,Home,L,20,45,Oct 4 (Sat),3:30 PM
+2008,Toledo,Home,L,10,13,Oct 11 (Sat),Noon
+2008,#3 Penn State,Away,L,17,46,Oct 18 (Sat),4:30 PM
+2008,Michigan State,Home,L,21,35,Oct 25 (Sat),3:30 PM
+2008,Purdue,Away,L,42,48,Nov 1 (Sat),Noon
+2008,Minnesota,Away,W,29,6,Nov 8 (Sat),11:00 AM CT
+2008,Northwestern,Home,L,14,21,Nov 15 (Sat),Noon
+2008,#10 Ohio State,Away,L,7,42,Nov 22 (Sat),Noon
+2007,Appalachian State,Home,L,32,34,Sep 1 (Sat),Noon
+2007,Oregon,Home,L,7,39,Sep 8 (Sat),3:30 PM
+2007,Notre Dame,Home,W,38,0,Sep 15 (Sat),3:30 PM
+2007,#10 Penn State,Home,W,14,9,Sep 22 (Sat),3:30 PM
+2007,Northwestern,Away,W,28,16,Sep 29 (Sat),11:00 AM CT
+2007,Eastern Michigan,Home,W,33,22,Oct 6 (Sat),Noon
+2007,Purdue,Home,W,48,21,Oct 13 (Sat),Noon
+2007,Illinois,Away,W,27,17,Oct 20 (Sat),7:00 PM
+2007,Minnesota,Home,W,34,10,Oct 27 (Sat),3:30 PM
+2007,Michigan State,Away,W,28,24,Nov 3 (Sat),3:30 PM
+2007,Wisconsin,Away,L,21,37,Nov 10 (Sat),11:00 AM CT
+2007,#7 Ohio State,Home,L,3,14,Nov 17 (Sat),Noon
+2007,#9 Florida,,W,41,35,Jan 1 (Tue),1:00 PM
+2006,Vanderbilt,Home,W,27,7,Sep 2 (Sat),Noon
+2006,Central Michigan,Home,W,41,17,Sep 9 (Sat),Noon
+2006,#2 Notre Dame,Away,W,47,21,Sep 16 (Sat),3:30 PM
+2006,Wisconsin,Home,W,27,13,Sep 23 (Sat),Noon
+2006,Minnesota,Away,W,28,14,Sep 30 (Sat),7:00 PM CT
+2006,Michigan State,Home,W,31,13,Oct 7 (Sat),4:30 PM
+2006,Penn State,Away,W,17,10,Oct 14 (Sat),8:00 PM
+2006,Iowa,Home,W,20,6,Oct 21 (Sat),3:35 PM
+2006,Northwestern,Home,W,17,3,Oct 28 (Sat),Noon
+2006,Ball State,Home,W,34,26,Nov 4 (Sat),12:30 PM
+2006,Indiana,Away,W,34,3,Nov 11 (Sat),3:30 PM
+2006,#1 Ohio State,Away,L,39,42,Nov 18 (Sat),3:30 PM
+2006,#8 Southern California,,L,18,32,Jan 1 (Mon),2:00 PM PT
+2005,Northern Illinois,Home,W,33,17,Sep 3 (Sat),3:30 PM
+2005,#20 Notre Dame,Home,L,10,17,Sep 10 (Sat),Noon
+2005,Eastern Michigan,Home,W,55,0,Sep 17 (Sat),Noon
+2005,Wisconsin,Away,L,20,23,Sep 24 (Sat),5:00 PM CT
+2005,#11 Michigan State,Away,W,34,31,Oct 1 (Sat),Noon
+2005,Minnesota,Home,L,20,23,Oct 8 (Sat),1:00 PM
+2005,#8 Penn State,Home,W,27,25,Oct 15 (Sat),3:30 PM
+2005,Iowa,Away,W,23,20,Oct 22 (Sat),11:00 AM CT
+2005,#21 Northwestern,Away,W,33,17,Oct 29 (Sat),6:00 PM CT
+2005,Indiana,Home,W,41,14,Nov 12 (Sat),Noon
+2005,#9 Ohio State,Home,L,21,25,Nov 19 (Sat),1:00 PM
+2005,Nebraska,Home,L,28,32,Dec 28 (Wed),7:00 PM CT
+2004,Miami (Ohio),Home,W,43,10,Sep 4 (Sat),12:10 PM
+2004,Notre Dame,Away,L,20,28,Sep 11 (Sat),2:30 PM CT
+2004,San Diego State,Home,W,24,21,Sep 18 (Sat),Noon
+2004,Iowa,Home,W,30,17,Sep 25 (Sat),3:30 PM
+2004,Indiana,Away,W,35,14,Oct 2 (Sat),2:30 PM CT
+2004,#13 Minnesota,Home,W,27,24,Oct 9 (Sat),Noon
+2004,Illinois,Away,W,30,19,Oct 16 (Sat),11:10 AM CT
+2004,#12 Purdue,Away,W,16,14,Oct 23 (Sat),2:30 PM CT
+2004,Michigan State,Home,W,45,37,Oct 30 (Sat),3:30 PM
+2004,Northwestern,Home,W,42,20,Nov 13 (Sat),12:10 PM
+2004,Ohio State,Away,L,21,37,Nov 20 (Sat),1:00 PM
+2004,#6 Texas,,L,37,38,Jan 1 (Sat),2:00 PM PT
+2003,Central Michigan,Home,W,45,7,Aug 30 (Sat),12:10 PM
+2003,Houston,Home,W,50,3,Sep 6 (Sat),Noon
+2003,#15 Notre Dame,Home,W,38,0,Sep 13 (Sat),3:30 PM
+2003,#22 Oregon,Away,L,27,31,Sep 20 (Sat),12:30 PM PT
+2003,Indiana,Home,W,31,17,Sep 27 (Sat),Noon
+2003,#23 Iowa,Away,L,27,30,Oct 4 (Sat),2:30 PM CT
+2003,#17 Minnesota,Away,W,38,35,Oct 10 (Fri),7:00 PM CT
+2003,Illinois,Home,W,56,14,Oct 18 (Sat),12:10 PM
+2003,#10 Purdue,Home,W,31,3,Oct 25 (Sat),3:30 PM
+2003,#9 Michigan State,Away,W,27,20,Nov 1 (Sat),Noon
+2003,Northwestern,Away,W,41,10,Nov 15 (Sat),2:30 PM CT
+2003,#4 Ohio State,Home,W,35,21,Nov 22 (Sat),Noon
+2003,#1 Southern California,,L,14,28,Jan 1 (Thu),2:00 PM PT
+2002,#11 Washington,Home,W,31,29,Aug 31 (Sat),Noon
+2002,Western Michigan,Home,W,35,12,Sep 7 (Sat),12:10 PM
+2002,#20 Notre Dame,Away,L,23,25,Sep 14 (Sat),1:30 PM CT
+2002,Utah,Home,W,10,7,Sep 21 (Sat),12:05 PM
+2002,Illinois,Away,W,45,28,Sep 28 (Sat),2:30 PM CT
+2002,#15 Penn State,Home,W,27,24,Oct 12 (Sat),3:30 PM
+2002,Purdue,Home,W,23,21,Oct 19 (Sat),11:05 AM CT
+2002,#13 Iowa,Home,L,9,34,Oct 26 (Sat),12:05 PM
+2002,Michigan State,Home,W,49,3,Nov 2 (Sat),12:05 PM
+2002,Minnesota,Away,W,41,24,Nov 9 (Sat),6:45 PM CT
+2002,Wisconsin,Home,W,21,14,Nov 16 (Sat),12:05 PM
+2002,#2 Ohio State,Away,L,9,14,Nov 23 (Sat),12:15 PM
+2002,#22 Florida,,W,38,30,Jan 1 (Wed),11:00 AM
+2001,Miami (Ohio),Home,W,31,13,Sep 1 (Sat),3:30 PM
+2001,#15 Washington,Away,L,18,23,Sep 8 (Sat),12:30 PM PT
+2001,Western Michigan,Home,,,,Sep 15 (Sat),12:10 PM
+2001,Western Michigan,Home,W,38,21,Sep 22 (Sat),12:10 PM
+2001,#22 Illinois,Home,W,45,20,Sep 29 (Sat),3:30 PM
+2001,Penn State,Away,W,20,0,Oct 6 (Sat),3:30 PM
+2001,#17 Purdue,Home,W,24,10,Oct 13 (Sat),12:10 PM
+2001,Iowa,Away,W,32,26,Oct 27 (Sat),2:30 PM CT
+2001,Michigan State,Away,L,24,26,Nov 3 (Sat),3:30 PM
+2001,Minnesota,Home,W,31,10,Nov 10 (Sat),12:10 PM
+2001,Wisconsin,Away,W,20,17,Nov 17 (Sat),2:30 PM CT
+2001,Ohio State,Home,L,20,26,Nov 24 (Sat),1:00 PM
+2001,#8 Tennessee,,L,17,45,Jan 1 (Tue),1:00 PM
+2000,Bowling Green,Home,W,42,7,Sep 2 (Sat),12:10 PM
+2000,Rice,Home,W,38,7,Sep 9 (Sat),12:10 PM
+2000,#14 UCLA,Away,L,20,23,Sep 16 (Sat),12:30 PM PT
+2000,#19 Illinois,Away,W,35,31,Sep 23 (Sat),6:30 PM CT
+2000,#17 Wisconsin,Home,W,13,10,Sep 30 (Sat),Noon
+2000,Purdue,Away,L,31,32,Oct 7 (Sat),11:00 AM CT
+2000,Indiana,Home,W,58,0,Oct 14 (Sat),3:30 PM
+2000,Michigan State,Home,W,14,0,Oct 21 (Sat),3:30 PM
+2000,#21 Northwestern,Away,L,51,54,Nov 4 (Sat),2:30 PM CT
+2000,Penn State,Home,W,33,11,Nov 11 (Sat),12:10 PM
+2000,#12 Ohio State,Away,W,38,26,Nov 18 (Sat),Noon
+2000,#20 Auburn,,W,31,28,Jan 1 (Mon),1:00 PM
+1999,#16 Notre Dame,Home,W,26,22,Sep 4 (Sat),3:30 PM
+1999,Rice,Home,W,37,3,Sep 11 (Sat),12:10 PM
+1999,Syracuse,Away,W,18,13,Sep 18 (Sat),8:00 PM
+1999,#20 Wisconsin,Away,W,21,16,Sep 25 (Sat),2:30 PM CT
+1999,#11 Purdue,Home,W,38,12,Oct 2 (Sat),12:10 PM
+1999,#11 Michigan State,Away,L,31,34,Oct 9 (Sat),Noon
+1999,Illinois,Home,L,29,35,Oct 23 (Sat),12:10 PM
+1999,Indiana,Away,W,34,31,Oct 30 (Sat),11:10 AM CT
+1999,Northwestern,Home,W,37,3,Nov 6 (Sat),12:10 PM
+1999,#6 Penn State,Away,W,31,27,Nov 13 (Sat),Noon
+1999,Ohio State,Home,W,24,17,Nov 20 (Sat),Noon
+1999,#5 Alabama,,W,35,34,Jan 1 (Sat),8:30 PM
+1998,#22 Notre Dame,Away,L,20,36,Sep 5 (Sat),2:30 PM CT
+1998,#19 Syracuse,Home,L,28,38,Sep 12 (Sat),3:30 PM
+1998,Eastern Michigan,Home,W,59,20,Sep 19 (Sat),12:10 PM
+1998,Michigan State,Home,W,29,17,Sep 26 (Sat),Noon
+1998,Iowa,Away,W,12,9,Oct 3 (Sat),2:30 PM CT
+1998,Northwestern,Away,W,12,6,Oct 17 (Sat),6:00 PM CT
+1998,Indiana,Home,W,21,10,Oct 24 (Sat),12:10 PM
+1998,Minnesota,Away,W,15,10,Oct 31 (Sat),11:10 AM CT
+1998,#9 Penn State,Home,W,27,0,Nov 7 (Sat),Noon
+1998,#8 Wisconsin,Home,W,27,10,Nov 14 (Sat),12:10 PM
+1998,#7 Ohio State,Away,L,16,31,Nov 21 (Sat),Noon
+1998,Hawaii,Away,W,48,17,Nov 28 (Sat),4:35 PM HT
+1998,#11 Arkansas,,W,45,31,Jan 1 (Fri),1:00 PM
+1997,#8 Colorado,Home,W,27,3,Sep 13 (Sat),Noon
+1997,Baylor,Home,W,38,3,Sep 20 (Sat),12:30 PM
+1997,Notre Dame,Home,W,21,14,Sep 27 (Sat),3:30 PM
+1997,Indiana,Away,W,37,0,Oct 4 (Sat),11:20 AM CT
+1997,Northwestern,Home,W,23,6,Oct 11 (Sat),12:30 PM
+1997,#15 Iowa,Home,W,28,24,Oct 18 (Sat),12:30 PM
+1997,#15 Michigan State,Away,W,23,7,Oct 25 (Sat),12:30 PM
+1997,Minnesota,Home,W,24,3,Nov 1 (Sat),12:20 PM
+1997,#3 Penn State,Away,W,34,8,Nov 8 (Sat),3:30 PM
+1997,#23 Wisconsin,Away,W,26,16,Nov 15 (Sat),2:30 PM CT
+1997,#4 Ohio State,Home,W,20,14,Nov 22 (Sat),Noon
+1997,#8 Washington State,,W,21,16,Jan 1 (Thu),2:00 PM PT
+1996,Illinois,Home,W,20,8,Aug 31 (Sat),3:30 PM
+1996,Colorado,Away,W,20,13,Sep 14 (Sat),1:30 PM MT
+1996,Boston College,Home,W,20,14,Sep 21 (Sat),3:30 PM
+1996,UCLA,Home,W,38,9,Sep 28 (Sat),3:30 PM
+1996,Northwestern,Away,L,16,17,Oct 5 (Sat),11:20 AM CT
+1996,Indiana (HC),Home,W,27,20,Oct 19 (Sat),12:20 PM
+1996,Minnesota,Away,W,44,10,Oct 26 (Sat),6:00 PM CT
+1996,Michigan State,Home,W,45,29,Nov 2 (Sat),Noon
+1996,Purdue,Away,L,3,9,Nov 9 (Sat),12:30 PM
+1996,Penn State,Home,L,17,29,Nov 16 (Sat),Noon
+1996,Ohio State,Away,W,13,9,Nov 23 (Sat),Noon
+1996,Alabama,,L,14,17,Jan 1 (Wed),11:00 AM
+1995,Virginia,Home,W,18,17,Aug 26 (Sat),
+1995,Illinois,Away,W,38,14,Sep 2 (Sat),
+1995,Memphis,Home,W,24,7,Sep 9 (Sat),
+1995,Boston College,Away,W,23,13,Sep 16 (Sat),
+1995,Miami (Ohio),Home,W,38,19,Sep 30 (Sat),
+1995,Northwestern,Away,L,13,19,Oct 7 (Sat),
+1995,Indiana,Away,W,34,17,Oct 21 (Sat),
+1995,Minnesota (HC),Home,W,52,17,Oct 28 (Sat),
+1995,Michigan State,Away,L,25,28,Nov 4 (Sat),
+1995,Purdue,Home,W,5,0,Nov 11 (Sat),
+1995,Penn State,Away,L,17,27,Nov 18 (Sat),
+1995,Ohio State,Home,W,31,23,Nov 25 (Sat),
+1995,Texas A&M,,L,20,22,Dec 28 (Thu),
+1994,Boston College,Home,W,34,26,Sep 3 (Sat),
+1994,#3 Notre Dame,Away,W,26,24,Sep 10 (Sat),
+1994,#7 Colorado,Home,L,26,27,Sep 24 (Sat),
+1994,Iowa,Away,W,29,14,Oct 1 (Sat),
+1994,Michigan State,Home,W,40,20,Oct 8 (Sat),
+1994,#3 Penn State,Home,L,24,31,Oct 15 (Sat),
+1994,Illinois,Away,W,19,14,Oct 22 (Sat),
+1994,Wisconsin (HC),Home,L,19,31,Oct 29 (Sat),
+1994,Purdue,Away,W,45,23,Nov 5 (Sat),
+1994,Minnesota,Home,W,38,22,Nov 12 (Sat),
+1994,#22 Ohio State,Away,L,6,22,Nov 19 (Sat),
+1994,#10 Colorado State,,W,24,14,Dec 30 (Fri),
+1993,Washington State,Home,W,41,14,Sep 4 (Sat),
+1993,Notre Dame,Home,L,23,27,Sep 11 (Sat),
+1993,Houston,Home,W,42,21,Sep 25 (Sat),
+1993,Iowa,Away,W,24,7,Oct 2 (Sat),
+1993,Michigan State,Away,L,7,17,Oct 9 (Sat),
+1993,Penn State,Away,W,21,13,Oct 16 (Sat),
+1993,Illinois (HC),Home,L,21,24,Oct 23 (Sat),
+1993,Wisconsin,Away,L,10,13,Oct 30 (Sat),
+1993,Purdue,Home,W,25,10,Nov 6 (Sat),
+1993,Minnesota,Away,W,58,7,Nov 13 (Sat),
+1993,Ohio State,Home,W,28,0,Nov 20 (Sat),
+1993,North Carolina State,,W,42,7,Jan 1 (Sat),
+1992,Notre Dame,Away,T,17,17,Sep 12 (Sat),
+1992,Oklahoma State,Home,W,35,3,Sep 19 (Sat),
+1992,Houston,Home,W,61,7,Sep 26 (Sat),
+1992,Iowa,Home,W,52,28,Oct 3 (Sat),
+1992,Michigan State,Home,W,35,10,Oct 10 (Sat),
+1992,Indiana,Away,W,31,3,Oct 17 (Sat),
+1992,Minnesota (HC),Home,W,63,13,Oct 24 (Sat),
+1992,Purdue,Away,W,24,17,Oct 31 (Sat),
+1992,Northwestern,Away,W,40,7,Nov 7 (Sat),
+1992,Illinois,Home,T,22,22,Nov 14 (Sat),
+1992,Ohio State,Away,T,13,13,Nov 21 (Sat),
+1992,Washington,,W,38,31,Jan 1 (Fri),
+1991,Boston College,Away,W,35,13,Sep 7 (Sat),
+1991,Notre Dame,Home,W,24,14,Sep 14 (Sat),
+1991,Florida State,Home,L,31,51,Sep 28 (Sat),
+1991,Iowa,Away,W,43,24,Oct 5 (Sat),
+1991,Michigan State,Away,W,45,28,Oct 12 (Sat),
+1991,Indiana (HC),Home,W,24,16,Oct 19 (Sat),
+1991,Minnesota,Away,W,52,6,Oct 25 (Fri),
+1991,Purdue,Home,W,42,0,Nov 2 (Sat),
+1991,Northwestern,Home,W,59,14,Nov 9 (Sat),
+1991,Illinois,Away,W,20,0,Nov 16 (Sat),
+1991,Ohio State,Home,W,31,3,Nov 23 (Sat),
+1991,Washington,,L,14,34,Jan 1 (Wed),
+1990,Notre Dame,Away,L,24,28,Sep 15 (Sat),
+1990,UCLA,Home,W,38,15,Sep 22 (Sat),
+1990,Maryland,Home,W,45,17,Sep 29 (Sat),
+1990,Wisconsin,Away,W,41,3,Oct 6 (Sat),
+1990,Michigan State,Home,L,27,28,Oct 13 (Sat),
+1990,Iowa (HC),Home,L,23,24,Oct 20 (Sat),
+1990,Indiana,Away,W,45,19,Oct 27 (Sat),
+1990,Purdue,Away,W,38,13,Nov 3 (Sat),
+1990,Illinois,Home,W,22,17,Nov 10 (Sat),
+1990,Minnesota,Home,W,35,18,Nov 17 (Sat),
+1990,Ohio State,Home,W,16,13,Nov 24 (Sat),
+1990,Mississippi,,W,35,3,Jan 1 (Tue),
+1989,Notre Dame,Home,L,19,24,Sep 16 (Sat),
+1989,UCLA,Away,W,24,23,Sep 23 (Sat),
+1989,Maryland,Home,W,41,21,Sep 30 (Sat),
+1989,Wisconsin,Home,W,24,0,Oct 7 (Sat),
+1989,Michigan State,Away,W,10,7,Oct 14 (Sat),
+1989,Iowa,Away,W,26,12,Oct 21 (Sat),
+1989,Indiana (HC),Home,W,38,10,Oct 28 (Sat),
+1989,Purdue,Home,W,42,27,Nov 4 (Sat),
+1989,Illinois,Away,W,24,10,Nov 11 (Sat),
+1989,Minnesota,Away,W,49,15,Nov 18 (Sat),
+1989,Ohio State,Home,W,28,18,Nov 25 (Sat),
+1989,Southern California,,L,10,17,Jan 1 (Mon),
+1988,Notre Dame,Away,L,17,19,Sep 10 (Sat),
+1988,Miami (Fla.),Home,L,30,31,Sep 17 (Sat),
+1988,Wake Forest,Home,W,19,9,Sep 24 (Sat),
+1988,Wisconsin,Away,W,62,14,Oct 1 (Sat),
+1988,Michigan State,Home,W,17,3,Oct 8 (Sat),
+1988,Iowa,Away,T,17,17,Oct 15 (Sat),
+1988,Indiana (HC),Home,W,31,6,Oct 22 (Sat),
+1988,Northwestern,Away,W,52,7,Oct 29 (Sat),
+1988,Minnesota,Home,W,22,7,Nov 5 (Sat),
+1988,Illinois,Home,W,38,9,Nov 12 (Sat),
+1988,Ohio State,Away,W,34,31,Nov 19 (Sat),
+1988,Southern California,,W,22,14,Jan 2 (Mon),
+1987,Notre Dame,Home,L,7,26,Sep 12 (Sat),
+1987,Washington State,Home,W,44,18,Sep 19 (Sat),
+1987,Long Beach State,Home,W,49,0,Sep 26 (Sat),
+1987,Wisconsin,Home,W,49,0,Oct 3 (Sat),
+1987,Michigan State,Away,L,11,17,Oct 10 (Sat),
+1987,Iowa,Home,W,37,10,Oct 17 (Sat),
+1987,Indiana,Away,L,10,14,Oct 24 (Sat),
+1987,Northwestern (HC),Home,W,29,6,Oct 31 (Sat),
+1987,Minnesota,Away,W,30,20,Nov 7 (Sat),
+1987,Illinois,Away,W,17,14,Nov 14 (Sat),
+1987,Ohio State,Home,L,20,23,Nov 21 (Sat),
+1987,Alabama,,W,28,24,Jan 2 (Sat),
+1986,Notre Dame,Away,W,24,23,Sep 13 (Sat),
+1986,Oregon State,Home,W,31,12,Sep 20 (Sat),
+1986,Florida State (HC),Home,W,20,18,Sep 27 (Sat),
+1986,Wisconsin,Away,W,34,17,Oct 4 (Sat),
+1986,Michigan State,Home,W,27,6,Oct 11 (Sat),
+1986,Iowa,Home,W,20,17,Oct 18 (Sat),
+1986,Indiana,Away,W,38,14,Oct 25 (Sat),
+1986,Illinois,Home,W,69,13,Nov 1 (Sat),
+1986,Purdue,Away,W,31,7,Nov 8 (Sat),
+1986,Minnesota,Home,L,17,20,Nov 15 (Sat),
+1986,Ohio State,Away,W,26,24,Nov 22 (Sat),
+1986,Hawaii,Away,W,27,10,Dec 6 (Sat),
+1986,Arizona State,,L,15,22,Jan 1 (Thu),
+1985,Notre Dame,Home,W,20,12,Sep 14 (Sat),
+1985,South Carolina,Away,W,34,3,Sep 21 (Sat),
+1985,Maryland,Home,W,20,0,Sep 28 (Sat),
+1985,Wisconsin,Home,W,33,6,Oct 5 (Sat),
+1985,Michigan State,Away,W,31,0,Oct 12 (Sat),
+1985,Iowa,Away,L,10,12,Oct 19 (Sat),
+1985,Indiana (HC),Home,W,42,15,Oct 26 (Sat),
+1985,Illinois,Away,T,3,3,Nov 2 (Sat),
+1985,Purdue,Home,W,47,0,Nov 9 (Sat),
+1985,Minnesota,Away,W,48,7,Nov 16 (Sat),
+1985,Ohio State,Home,W,27,17,Nov 23 (Sat),
+1985,Nebraska,,W,27,23,Jan 1 (Wed),
+1984,Miami (Fla.),Home,W,22,14,Sep 8 (Sat),
+1984,Washington,Home,L,11,20,Sep 15 (Sat),
+1984,Wisconsin,Home,W,20,14,Sep 22 (Sat),
+1984,Indiana,Away,W,14,6,Sep 29 (Sat),
+1984,Michigan State,Home,L,7,19,Oct 6 (Sat),
+1984,Northwestern (HC),Home,W,31,0,Oct 13 (Sat),
+1984,Iowa,Away,L,0,26,Oct 20 (Sat),
+1984,Illinois,Home,W,26,18,Oct 27 (Sat),
+1984,Purdue,Away,L,29,31,Nov 3 (Sat),
+1984,Minnesota,Home,W,31,7,Nov 10 (Sat),
+1984,Ohio State,Away,L,6,21,Nov 17 (Sat),
+1984,Brigham Young,,L,17,24,Dec 21 (Fri),
+1983,Washington State,Home,W,20,17,Sep 10 (Sat),
+1983,Washington,Away,L,24,25,Sep 17 (Sat),
+1983,Wisconsin,Away,W,38,21,Sep 24 (Sat),
+1983,Indiana,Home,W,43,18,Oct 1 (Sat),
+1983,Michigan State,Away,W,42,0,Oct 8 (Sat),
+1983,Northwestern,Home,W,35,0,Oct 15 (Sat),
+1983,Iowa (HC),Home,W,16,13,Oct 22 (Sat),
+1983,Illinois,Away,L,6,16,Oct 29 (Sat),
+1983,Purdue,Home,W,42,10,Nov 5 (Sat),
+1983,Minnesota,Away,W,58,10,Nov 12 (Sat),
+1983,Ohio State,Home,W,24,21,Nov 19 (Sat),
+1983,Auburn,,L,7,9,Jan 2 (Mon),
+1982,Wisconsin,Home,W,20,9,Sep 11 (Sat),
+1982,Notre Dame,Away,L,17,23,Sep 18 (Sat),
+1982,UCLA,Home,L,27,31,Sep 25 (Sat),
+1982,Indiana,Home,W,24,10,Oct 2 (Sat),
+1982,Michigan State,Home,W,31,17,Oct 9 (Sat),
+1982,Iowa,Away,W,29,7,Oct 16 (Sat),
+1982,Northwestern,Away,W,49,14,Oct 23 (Sat),
+1982,Minnesota (HC),Home,W,52,14,Oct 30 (Sat),
+1982,Illinois,Away,W,16,10,Nov 6 (Sat),
+1982,Purdue,Home,W,52,21,Nov 13 (Sat),
+1982,Ohio State,Away,L,14,24,Nov 20 (Sat),
+1982,UCLA,,L,14,24,Jan 1 (Sat),
+1981,Wisconsin,Away,L,14,21,Sep 12 (Sat),
+1981,Notre Dame,Home,W,25,7,Sep 19 (Sat),
+1981,Navy,Home,W,21,16,Sep 26 (Sat),
+1981,Indiana,Away,W,38,17,Oct 3 (Sat),
+1981,Michigan State,Away,W,38,20,Oct 10 (Sat),
+1981,Iowa,Home,L,7,9,Oct 17 (Sat),
+1981,Northwestern (HC),Home,W,38,0,Oct 24 (Sat),
+1981,Minnesota,Away,W,34,13,Oct 31 (Sat),
+1981,Illinois,Home,W,70,21,Nov 7 (Sat),
+1981,Purdue,Away,W,28,10,Nov 14 (Sat),
+1981,Ohio State,Home,L,9,14,Nov 21 (Sat),
+1981,UCLA,,W,33,14,Dec 31 (Thu),
+1980,Northwestern,Home,W,17,10,Sep 13 (Sat),
+1980,Notre Dame,Away,L,27,29,Sep 20 (Sat),
+1980,South Carolina,Home,L,14,17,Sep 27 (Sat),
+1980,California,Home,W,38,13,Oct 4 (Sat),
+1980,Michigan State,Home,W,27,23,Oct 11 (Sat),
+1980,Minnesota,Away,W,37,14,Oct 18 (Sat),
+1980,Illinois (HC),Home,W,45,14,Oct 25 (Sat),
+1980,Indiana,Away,W,35,0,Nov 1 (Sat),
+1980,Wisconsin,Away,W,24,0,Nov 8 (Sat),
+1980,Purdue,Home,W,26,0,Nov 15 (Sat),
+1980,Ohio State,Away,W,9,3,Nov 22 (Sat),
+1980,Washington,,W,23,6,Jan 1 (Thu),
+1979,Northwestern,Home,W,49,7,Sep 8 (Sat),
+1979,Notre Dame,Home,L,10,12,Sep 15 (Sat),
+1979,Kansas,Home,W,28,7,Sep 22 (Sat),
+1979,California,Away,W,14,10,Sep 29 (Sat),
+1979,Michigan State,Away,W,21,7,Oct 6 (Sat),
+1979,Minnesota,Home,W,31,21,Oct 13 (Sat),
+1979,Illinois,Away,W,27,7,Oct 20 (Sat),
+1979,Indiana (HC),Home,W,27,21,Oct 27 (Sat),
+1979,Wisconsin,Home,W,54,0,Nov 3 (Sat),
+1979,Purdue,Away,L,21,24,Nov 10 (Sat),
+1979,Ohio State,Home,L,15,18,Nov 17 (Sat),
+1979,North Carolina,,L,15,17,Dec 28 (Fri),
+1978,Illinois,Home,W,31,0,Sep 16 (Sat),
+1978,Notre Dame,Away,W,28,14,Sep 23 (Sat),
+1978,Duke,Home,W,52,0,Sep 30 (Sat),
+1978,Arizona,Home,W,21,17,Oct 7 (Sat),
+1978,Michigan State,Home,L,15,24,Oct 14 (Sat),
+1978,Wisconsin,Away,W,42,0,Oct 21 (Sat),
+1978,Minnesota (HC),Home,W,42,10,Oct 28 (Sat),
+1978,Iowa,Away,W,34,0,Nov 4 (Sat),
+1978,Northwestern,Away,W,59,14,Nov 11 (Sat),
+1978,Purdue,Home,W,24,6,Nov 18 (Sat),
+1978,Ohio State,Away,W,14,3,Nov 25 (Sat),
+1978,Southern California,,L,10,17,Jan 1 (Mon),
+1977,Illinois,Away,W,37,9,Sep 10 (Sat),
+1977,Duke,Home,W,21,9,Sep 17 (Sat),
+1977,Navy,Home,W,14,7,Sep 24 (Sat),
+1977,Texas A&M,Home,W,41,3,Oct 1 (Sat),
+1977,Michigan State,Away,W,24,14,Oct 8 (Sat),
+1977,Wisconsin,Home,W,56,0,Oct 15 (Sat),
+1977,Minnesota,Away,L,0,16,Oct 22 (Sat),
+1977,Iowa (HC),Home,W,23,6,Oct 29 (Sat),
+1977,Northwestern,Home,W,63,20,Nov 5 (Sat),
+1977,Purdue,Away,W,40,7,Nov 12 (Sat),
+1977,Ohio State,Home,W,14,6,Nov 19 (Sat),
+1977,Washington,,L,20,27,Jan 2 (Mon),
+1976,Wisconsin,Home,W,40,27,Sep 11 (Sat),
+1976,Stanford,Home,W,51,0,Sep 18 (Sat),
+1976,Navy,Home,W,70,14,Sep 25 (Sat),
+1976,Wake Forest,Home,W,31,0,Oct 2 (Sat),
+1976,Michigan State,Home,W,42,10,Oct 9 (Sat),
+1976,Northwestern,Away,W,38,7,Oct 16 (Sat),
+1976,Indiana,Away,W,35,0,Oct 23 (Sat),
+1976,Minnesota (HC),Home,W,45,0,Oct 30 (Sat),
+1976,Purdue,Away,L,14,16,Nov 6 (Sat),
+1976,Illinois,Home,W,38,7,Nov 13 (Sat),
+1976,Ohio State,Away,W,22,0,Nov 20 (Sat),
+1976,Southern California,,L,6,14,Jan 1 (Sat),
+1975,Wisconsin,Away,W,23,6,Sep 13 (Sat),
+1975,Stanford,Home,T,19,19,Sep 20 (Sat),
+1975,Baylor,Home,T,14,14,Sep 27 (Sat),
+1975,Missouri,Home,W,31,7,Oct 4 (Sat),
+1975,Michigan State,Away,W,16,6,Oct 11 (Sat),
+1975,Northwestern,Home,W,69,0,Oct 18 (Sat),
+1975,Indiana (HC),Home,W,55,7,Oct 25 (Sat),
+1975,Minnesota,Away,W,28,21,Nov 1 (Sat),
+1975,Purdue,Home,W,28,0,Nov 8 (Sat),
+1975,Illinois,Away,W,21,15,Nov 15 (Sat),
+1975,Ohio State,Home,L,14,21,Nov 22 (Sat),
+1975,Oklahoma,,L,6,14,Jan 1 (Thu),
+1974,Iowa,Home,W,24,7,Sep 14 (Sat),
+1974,Colorado,Home,W,31,0,Sep 21 (Sat),
+1974,Navy,Home,W,52,0,Sep 28 (Sat),
+1974,Stanford,Away,W,27,16,Oct 5 (Sat),
+1974,Michigan State,Home,W,21,7,Oct 12 (Sat),
+1974,Wisconsin,Away,W,24,20,Oct 19 (Sat),
+1974,Minnesota (HC),Home,W,49,0,Oct 26 (Sat),
+1974,Indiana,Away,W,21,7,Nov 2 (Sat),
+1974,Illinois,Away,W,14,6,Nov 9 (Sat),
+1974,Purdue,Home,W,51,0,Nov 16 (Sat),
+1974,Ohio State,Away,L,10,12,Nov 23 (Sat),
+1973,Iowa,Away,W,31,7,Sep 15 (Sat),
+1973,Stanford,Home,W,47,10,Sep 22 (Sat),
+1973,Navy,Home,W,14,0,Sep 29 (Sat),
+1973,Oregon,Home,W,24,0,Oct 6 (Sat),
+1973,Michigan State,Away,W,31,0,Oct 13 (Sat),
+1973,Wisconsin (HC),Home,W,35,6,Oct 20 (Sat),
+1973,Minnesota,Away,W,34,7,Oct 27 (Sat),
+1973,Indiana,Home,W,49,13,Nov 3 (Sat),
+1973,Illinois,Home,W,21,6,Nov 10 (Sat),
+1973,Purdue,Away,W,34,9,Nov 17 (Sat),
+1973,Ohio State,Home,T,10,10,Nov 24 (Sat),
+1972,Northwestern,Home,W,7,0,Sep 16 (Sat),
+1972,UCLA,Away,W,26,9,Sep 23 (Sat),
+1972,Tulane,Home,W,41,7,Sep 30 (Sat),
+1972,Navy,Home,W,35,7,Oct 7 (Sat),
+1972,Michigan State,Home,W,10,0,Oct 14 (Sat),
+1972,Illinois,Away,W,31,7,Oct 21 (Sat),
+1972,Minnesota (HC),Home,W,42,0,Oct 28 (Sat),
+1972,Indiana,Away,W,21,7,Nov 4 (Sat),
+1972,Iowa,Away,W,31,0,Nov 11 (Sat),
+1972,Purdue,Home,W,9,6,Nov 18 (Sat),
+1972,Ohio State,Away,L,11,14,Nov 25 (Sat),
+1971,Northwestern,Away,W,21,6,Sep 11 (Sat),
+1971,Virginia,Home,W,56,0,Sep 18 (Sat),
+1971,UCLA,Home,W,38,0,Sep 25 (Sat),
+1971,Navy,Home,W,46,0,Oct 2 (Sat),
+1971,Michigan State,Away,W,24,13,Oct 9 (Sat),
+1971,Illinois,Home,W,35,6,Oct 16 (Sat),
+1971,Minnesota,Away,W,35,7,Oct 23 (Sat),
+1971,Indiana (HC),Home,W,61,7,Oct 30 (Sat),
+1971,Iowa,Home,W,63,7,Nov 6 (Sat),
+1971,Purdue,Away,W,20,17,Nov 13 (Sat),
+1971,Ohio State,Home,W,10,7,Nov 20 (Sat),
+1971,Stanford,,L,12,13,Jan 1 (Sat),
+1970,Arizona,Home,W,20,9,Sep 19 (Sat),
+1970,Washington,Away,W,17,3,Sep 26 (Sat),
+1970,Texas A&M,Home,W,14,10,Oct 3 (Sat),
+1970,Purdue,Away,W,29,0,Oct 10 (Sat),
+1970,Michigan State,Home,W,34,20,Oct 17 (Sat),
+1970,Minnesota (HC),Home,W,39,13,Oct 24 (Sat),
+1970,Wisconsin,Away,W,29,15,Oct 31 (Sat),
+1970,Illinois,Home,W,42,0,Nov 7 (Sat),
+1970,Iowa,Home,W,55,0,Nov 14 (Sat),
+1970,Ohio State,Away,L,9,20,Nov 21 (Sat),
+1969,Vanderbilt,Home,W,42,14,Sep 20 (Sat),
+1969,Washington,Home,W,45,7,Sep 27 (Sat),
+1969,Missouri,Home,L,17,40,Oct 4 (Sat),
+1969,Purdue,Home,W,31,20,Oct 11 (Sat),
+1969,Michigan State,Away,L,12,23,Oct 18 (Sat),
+1969,Minnesota,Away,W,35,9,Oct 25 (Sat),
+1969,Wisconsin (HC),Home,W,35,7,Nov 1 (Sat),
+1969,Illinois,Away,W,57,0,Nov 8 (Sat),
+1969,Iowa,Away,W,51,6,Nov 15 (Sat),
+1969,Ohio State,Home,W,24,12,Nov 22 (Sat),
+1969,Southern California,,L,3,10,Jan 1 (Thu),
+1968,California,Home,L,7,21,Sep 21 (Sat),
+1968,Duke,Away,W,31,10,Sep 28 (Sat),
+1968,Navy,Home,W,32,9,Oct 5 (Sat),
+1968,Michigan State,Home,W,28,14,Oct 12 (Sat),
+1968,Indiana,Away,W,27,22,Oct 19 (Sat),
+1968,Minnesota (HC),Home,W,33,20,Oct 26 (Sat),
+1968,Northwestern,Away,W,35,0,Nov 2 (Sat),
+1968,Illinois,Home,W,36,0,Nov 9 (Sat),
+1968,Wisconsin,Home,W,34,9,Nov 16 (Sat),
+1968,Ohio State,Away,L,14,50,Nov 23 (Sat),
+1967,Duke,Home,W,10,7,Sep 23 (Sat),
+1967,California,Away,L,9,10,Sep 30 (Sat),
+1967,Navy,Home,L,21,26,Oct 7 (Sat),
+1967,Michigan State,Home,L,0,34,Oct 14 (Sat),
+1967,Indiana (HC),Home,L,20,27,Oct 21 (Sat),
+1967,Minnesota,Away,L,15,20,Oct 28 (Sat),
+1967,Northwestern,Home,W,7,3,Nov 4 (Sat),
+1967,Illinois,Away,W,21,14,Nov 11 (Sat),
+1967,Wisconsin,Away,W,27,14,Nov 18 (Sat),
+1967,Ohio State,Home,L,14,24,Nov 25 (Sat),
+1966,Oregon State,Home,W,41,0,Sep 17 (Sat),
+1966,California,Away,W,17,7,Sep 24 (Sat),
+1966,North Carolina,Home,L,7,21,Oct 1 (Sat),
+1966,Michigan State,Away,L,7,20,Oct 8 (Sat),
+1966,Purdue,Home,L,21,22,Oct 15 (Sat),
+1966,Minnesota (HC),Home,W,49,0,Oct 22 (Sat),
+1966,Wisconsin,Away,W,28,17,Oct 29 (Sat),
+1966,Illinois,Home,L,21,28,Nov 5 (Sat),
+1966,Northwestern,Home,W,28,20,Nov 12 (Sat),
+1966,Ohio State,Away,W,17,3,Nov 19 (Sat),
+1965,North Carolina,Away,W,31,24,Sep 18 (Sat),
+1965,California,Home,W,10,7,Sep 25 (Sat),
+1965,Georgia,Home,L,7,15,Oct 2 (Sat),
+1965,Michigan State,Home,L,7,24,Oct 9 (Sat),
+1965,Purdue (HC),Home,L,15,17,Oct 16 (Sat),
+1965,Minnesota,Away,L,13,14,Oct 23 (Sat),
+1965,Wisconsin,Home,W,50,14,Oct 30 (Sat),
+1965,Illinois,Away,W,23,3,Nov 6 (Sat),
+1965,Northwestern,Away,L,22,34,Nov 13 (Sat),
+1965,Ohio State,Home,L,7,9,Nov 20 (Sat),
+1964,Air Force,Home,W,24,7,Sep 26 (Sat),
+1964,Navy,Home,W,21,0,Oct 3 (Sat),
+1964,Michigan State,Away,W,17,10,Oct 10 (Sat),
+1964,Purdue,Home,L,20,21,Oct 17 (Sat),
+1964,Minnesota (HC),Home,W,19,12,Oct 24 (Sat),
+1964,Northwestern,Home,W,35,0,Oct 31 (Sat),
+1964,Illinois,Home,W,21,6,Nov 7 (Sat),
+1964,Iowa,Away,W,34,20,Nov 14 (Sat),
+1964,Ohio State,Away,W,10,0,Nov 21 (Sat),
+1964,Oregon State,,W,34,7,Jan 1 (Fri),
+1963,SMU,Home,W,27,16,Sep 28 (Sat),
+1963,Navy,Home,L,13,26,Oct 5 (Sat),
+1963,Michigan State,Home,T,7,7,Oct 12 (Sat),
+1963,Purdue,Home,L,12,23,Oct 19 (Sat),
+1963,Minnesota,Away,L,0,6,Oct 26 (Sat),
+1963,Northwestern (HC),Home,W,27,6,Nov 2 (Sat),
+1963,Illinois,Away,W,14,8,Nov 9 (Sat),
+1963,Iowa,Home,T,21,21,Nov 16 (Sat),
+1963,Ohio State,Home,L,10,14,Nov 23 (Sat),
+1962,Nebraska,Home,L,13,25,Sep 29 (Sat),
+1962,Army,Home,W,17,7,Oct 6 (Sat),
+1962,Michigan State,Away,L,0,28,Oct 13 (Sat),
+1962,Purdue,Away,L,0,37,Oct 20 (Sat),
+1962,Minnesota (HC),Home,L,0,17,Oct 27 (Sat),
+1962,Wisconsin,Home,L,12,34,Nov 3 (Sat),
+1962,Illinois,Home,W,14,10,Nov 10 (Sat),
+1962,Iowa,Away,L,14,28,Nov 17 (Sat),
+1962,Ohio State,Away,L,0,28,Nov 24 (Sat),
+1961,UCLA,Home,W,29,6,Sep 30 (Sat),
+1961,Army,Home,W,38,8,Oct 7 (Sat),
+1961,Michigan State,Home,L,0,28,Oct 14 (Sat),
+1961,Purdue (HC),Home,W,16,14,Oct 21 (Sat),
+1961,Minnesota,Away,L,20,23,Oct 28 (Sat),
+1961,Duke,Home,W,28,14,Nov 4 (Sat),
+1961,Illinois,Away,W,38,6,Nov 11 (Sat),
+1961,Iowa,Home,W,23,14,Nov 18 (Sat),
+1961,Ohio State,Home,L,20,50,Nov 25 (Sat),
+1960,Oregon,Home,W,21,0,Sep 24 (Sat),
+1960,Michigan State,Away,L,17,24,Oct 1 (Sat),
+1960,Duke,Home,W,31,6,Oct 8 (Sat),
+1960,Northwestern,Home,W,14,7,Oct 15 (Sat),
+1960,Minnesota (HC),Home,L,0,10,Oct 22 (Sat),
+1960,Wisconsin,Away,L,13,16,Oct 29 (Sat),
+1960,Illinois,Home,W,8,7,Nov 5 (Sat),
+1960,Indiana,Home,W,29,7,Nov 12 (Sat),
+1960,Ohio State,Away,L,0,7,Nov 19 (Sat),
+1959,Missouri,Home,L,15,20,Sep 26 (Sat),
+1959,Michigan State,Home,L,8,34,Oct 3 (Sat),
+1959,Oregon State,Home,W,18,7,Oct 10 (Sat),
+1959,Northwestern,Home,L,7,20,Oct 17 (Sat),
+1959,Minnesota,Away,W,14,6,Oct 24 (Sat),
+1959,Wisconsin (HC),Home,L,10,19,Oct 31 (Sat),
+1959,Illinois,Away,W,20,15,Nov 7 (Sat),
+1959,Indiana,Away,L,7,26,Nov 14 (Sat),
+1959,Ohio State,Home,W,23,14,Nov 21 (Sat),
+1958,Southern California,Home,W,20,19,Sep 27 (Sat),
+1958,Michigan State,Away,T,12,12,Oct 4 (Sat),
+1958,Navy,Home,L,14,20,Oct 11 (Sat),
+1958,Northwestern,Away,L,24,55,Oct 18 (Sat),
+1958,Minnesota (HC),Home,W,20,19,Oct 25 (Sat),
+1958,Iowa,Home,L,14,37,Nov 1 (Sat),
+1958,Illinois,Home,L,8,21,Nov 8 (Sat),
+1958,Indiana,Home,L,6,8,Nov 15 (Sat),
+1958,Ohio State,Away,L,14,20,Nov 22 (Sat),
+1957,Southern California,Away,W,16,6,Sep 28 (Sat),
+1957,Georgia,Home,W,26,0,Oct 5 (Sat),
+1957,Michigan State,Home,L,6,35,Oct 12 (Sat),
+1957,Northwestern (HC),Home,W,34,14,Oct 19 (Sat),
+1957,Minnesota,Away,W,24,7,Oct 26 (Sat),
+1957,Iowa,Home,T,21,21,Nov 2 (Sat),
+1957,Illinois,Away,L,19,20,Nov 9 (Sat),
+1957,Indiana,Home,W,27,13,Nov 16 (Sat),
+1957,Ohio State,Home,L,14,31,Nov 23 (Sat),
+1956,UCLA,Home,W,42,13,Sep 29 (Sat),
+1956,Michigan State,Home,L,0,9,Oct 6 (Sat),
+1956,Army,Home,W,48,14,Oct 13 (Sat),
+1956,Northwestern,Home,W,34,20,Oct 20 (Sat),
+1956,Minnesota (HC),Home,L,7,20,Oct 27 (Sat),
+1956,Iowa,Away,W,17,14,Nov 3 (Sat),
+1956,Illinois,Home,W,17,7,Nov 10 (Sat),
+1956,Indiana,Home,W,49,26,Nov 17 (Sat),
+1956,Ohio State,Away,W,19,0,Nov 24 (Sat),
+1955,Missouri,Home,W,42,7,Sep 24 (Sat),
+1955,Michigan State,Home,W,14,7,Oct 1 (Sat),
+1955,Army,Home,W,26,2,Oct 8 (Sat),
+1955,Northwestern,Home,W,14,2,Oct 15 (Sat),
+1955,Minnesota,Away,W,14,13,Oct 22 (Sat),
+1955,Iowa (HC),Home,W,33,21,Oct 29 (Sat),
+1955,Illinois,Away,L,6,25,Nov 5 (Sat),
+1955,Indiana,Home,W,30,0,Nov 12 (Sat),
+1955,Ohio State,Home,L,0,17,Nov 19 (Sat),
+1954,Washington,Away,W,14,0,Sep 25 (Sat),
+1954,Army,Home,L,7,26,Oct 2 (Sat),
+1954,Iowa,Home,W,14,13,Oct 9 (Sat),
+1954,Northwestern,Away,W,7,0,Oct 16 (Sat),
+1954,Minnesota (HC),Home,W,34,0,Oct 23 (Sat),
+1954,Indiana,Home,L,9,13,Oct 30 (Sat),
+1954,Illinois,Home,W,14,7,Nov 6 (Sat),
+1954,Michigan State,Home,W,33,7,Nov 13 (Sat),
+1954,Ohio State,Away,L,7,21,Nov 20 (Sat),
+1953,Washington,Home,W,50,0,Sep 26 (Sat),
+1953,Tulane,Home,W,26,7,Oct 3 (Sat),
+1953,Iowa,Home,W,14,13,Oct 10 (Sat),
+1953,Northwestern,Home,W,20,12,Oct 17 (Sat),
+1953,Minnesota,Away,L,0,22,Oct 24 (Sat),
+1953,Penn (HC),Home,W,24,14,Oct 31 (Sat),
+1953,Illinois,Away,L,3,19,Nov 7 (Sat),
+1953,Michigan State,Away,L,6,14,Nov 14 (Sat),
+1953,Ohio State,Home,W,20,0,Nov 21 (Sat),
+1952,Michigan State,Home,L,13,27,Sep 27 (Sat),
+1952,Stanford,Away,L,7,14,Oct 4 (Sat),
+1952,Indiana,Home,W,28,13,Oct 11 (Sat),
+1952,Northwestern,Away,W,48,14,Oct 18 (Sat),
+1952,Minnesota (HC),Home,W,21,0,Oct 25 (Sat),
+1952,Illinois,Home,L,13,22,Nov 1 (Sat),
+1952,Cornell,Home,W,49,7,Nov 8 (Sat),
+1952,Purdue,Home,W,21,10,Nov 15 (Sat),
+1952,Ohio State,Away,L,7,27,Nov 22 (Sat),
+1951,Michigan State,Home,L,0,25,Sep 29 (Sat),
+1951,Stanford,Home,L,13,23,Oct 6 (Sat),
+1951,Indiana,Home,W,33,14,Oct 13 (Sat),
+1951,Iowa,Away,W,21,0,Oct 20 (Sat),
+1951,Minnesota (HC),Home,W,54,27,Oct 27 (Sat),
+1951,Illinois,Away,L,0,7,Nov 3 (Sat),
+1951,Cornell,Away,L,7,20,Nov 10 (Sat),
+1951,Northwestern,Home,L,0,6,Nov 17 (Sat),
+1951,Ohio State,Home,W,7,0,Nov 26 (Mon),
+1950,Michigan State,Home,L,7,14,Sep 30 (Sat),
+1950,Dartmouth,Home,W,27,7,Oct 7 (Sat),
+1950,Army,,L,6,27,Oct 14 (Sat),
+1950,Wisconsin (HC),Home,W,26,13,Oct 21 (Sat),
+1950,Minnesota,Away,T,7,7,Oct 28 (Sat),
+1950,Illinois,Home,L,0,7,Nov 4 (Sat),
+1950,Indiana,Home,W,20,7,Nov 11 (Sat),
+1950,Northwestern,Home,W,34,23,Nov 18 (Sat),
+1950,Ohio State,Away,W,9,3,Nov 25 (Sat),
+1950,California,,W,14,6,Jan 1 (Mon),
+1949,Michigan State,Home,W,7,3,Sep 24 (Sat),
+1949,Stanford,Away,W,27,7,Oct 1 (Sat),
+1949,Army,Home,L,7,21,Oct 8 (Sat),
+1949,Northwestern,Away,L,20,21,Oct 15 (Sat),
+1949,Minnesota (HC),Home,W,14,7,Oct 22 (Sat),
+1949,Illinois,Away,W,13,0,Oct 29 (Sat),
+1949,Purdue,Home,W,20,12,Nov 5 (Sat),
+1949,Indiana,Home,W,20,7,Nov 12 (Sat),
+1949,Ohio State,Home,T,7,7,Nov 19 (Sat),
+1948,Michigan State,Away,W,13,7,Sep 25 (Sat),
+1948,Oregon,Home,W,14,0,Oct 2 (Sat),
+1948,Purdue,Away,W,40,0,Oct 9 (Sat),
+1948,Northwestern,Home,W,28,0,Oct 16 (Sat),
+1948,Minnesota,Away,W,27,14,Oct 23 (Sat),
+1948,Illinois (HC),Home,W,28,20,Oct 30 (Sat),
+1948,Navy,Home,W,35,0,Nov 6 (Sat),
+1948,Indiana,Home,W,54,0,Nov 13 (Sat),
+1948,Ohio State,Away,W,13,3,Nov 20 (Sat),
+1947,Michigan State,Home,W,55,0,Sep 27 (Sat),
+1947,Stanford,Home,W,49,13,Oct 4 (Sat),
+1947,Pittsburgh,Home,W,69,0,Oct 11 (Sat),
+1947,Northwestern,Away,W,49,21,Oct 18 (Sat),
+1947,Minnesota (HC),Home,W,13,6,Oct 25 (Sat),
+1947,Illinois,Away,W,14,7,Nov 1 (Sat),
+1947,Indiana,Home,W,35,0,Nov 8 (Sat),
+1947,Wisconsin,Away,W,40,6,Nov 15 (Sat),
+1947,Ohio State,Home,W,21,0,Nov 22 (Sat),
+1947,Southern California,,W,49,0,Jan 1 (Thu),
+1946,Indiana,Home,W,21,0,Sep 28 (Sat),
+1946,Iowa,Home,W,14,7,Oct 5 (Sat),
+1946,Army,Home,L,13,20,Oct 12 (Sat),
+1946,Northwestern,Home,T,14,14,Oct 19 (Sat),
+1946,Illinois (HC),Home,L,9,13,Oct 26 (Sat),
+1946,Minnesota,Away,W,21,0,Nov 2 (Sat),
+1946,Michigan State,Home,W,55,7,Nov 9 (Sat),
+1946,Wisconsin,Home,W,28,6,Nov 16 (Sat),
+1946,Ohio State,Away,W,58,6,Nov 23 (Sat),
+1945,,,W,27,2,Sep 15 (Sat),
+1945,Indiana,Home,L,7,13,Sep 22 (Sat),
+1945,Michigan State,Home,W,40,0,Sep 29 (Sat),
+1945,Northwestern,Away,W,20,7,Oct 6 (Sat),
+1945,Army,Away,L,7,28,Oct 13 (Sat),
+1945,Illinois,Away,W,19,0,Oct 27 (Sat),
+1945,Minnesota,Home,W,26,0,Nov 3 (Sat),
+1945,Navy,,L,7,33,Nov 10 (Sat),
+1945,Purdue,Home,W,27,13,Nov 17 (Sat),
+1945,Ohio State (HC),Home,W,7,3,Nov 24 (Sat),
+1944,,,W,12,7,Sep 16 (Sat),
+1944,Marquette,Away,W,14,0,Sep 23 (Sat),
+1944,Indiana,Home,L,0,20,Sep 30 (Sat),
+1944,Minnesota,Away,W,28,13,Oct 7 (Sat),
+1944,Northwestern,Home,W,27,0,Oct 14 (Sat),
+1944,Purdue,Home,W,40,14,Oct 28 (Sat),
+1944,Penn,Away,W,41,19,Nov 4 (Sat),
+1944,Illinois (HC),Home,W,14,0,Nov 11 (Sat),
+1944,Wisconsin,Home,W,14,0,Nov 18 (Sat),
+1944,Ohio State,Away,L,14,18,Nov 25 (Sat),
+1943,,,W,26,0,Sep 18 (Sat),
+1943,Western Michigan,Home,W,57,6,Sep 25 (Sat),
+1943,Northwestern,Away,W,21,7,Oct 2 (Sat),
+1943,Notre Dame,Home,L,12,35,Oct 9 (Sat),
+1943,Minnesota (HC),Home,W,49,6,Oct 23 (Sat),
+1943,Illinois,Away,W,42,6,Oct 30 (Sat),
+1943,Indiana,Home,W,23,6,Nov 6 (Sat),
+1943,Wisconsin,Home,W,27,0,Nov 13 (Sat),
+1943,Ohio State,Home,W,45,7,Nov 20 (Sat),
+1942,,,W,9,0,Sep 26 (Sat),
+1942,Michigan State,Home,W,20,0,Oct 3 (Sat),
+1942,,,L,14,26,Oct 10 (Sat),
+1942,Northwestern,Home,W,34,16,Oct 17 (Sat),
+1942,Minnesota,Away,L,14,16,Oct 24 (Sat),
+1942,Illinois (HC),Home,W,28,14,Oct 31 (Sat),
+1942,Harvard,Home,W,35,7,Nov 7 (Sat),
+1942,Notre Dame,Away,W,32,20,Nov 14 (Sat),
+1942,Ohio State,Away,L,7,21,Nov 21 (Sat),
+1942,Iowa,Home,W,28,14,Nov 28 (Sat),
+1941,Michigan State,Home,W,19,7,Sep 27 (Sat),
+1941,Iowa,Home,W,6,0,Oct 4 (Sat),
+1941,Pittsburgh,Home,W,40,0,Oct 11 (Sat),
+1941,Northwestern,Away,W,14,7,Oct 18 (Sat),
+1941,Minnesota (HC),Home,L,0,7,Oct 25 (Sat),
+1941,Illinois,Away,W,20,0,Nov 1 (Sat),
+1941,Columbia,Away,W,28,0,Nov 15 (Sat),
+1941,Ohio State,Home,T,20,20,Nov 22 (Sat),
+1940,California,Away,W,41,0,Sep 28 (Sat),
+1940,Michigan State,Home,W,21,14,Oct 5 (Sat),
+1940,Harvard,Away,W,26,0,Oct 12 (Sat),
+1940,Illinois (HC),Home,W,28,0,Oct 19 (Sat),
+1940,Penn,Home,W,14,0,Oct 26 (Sat),
+1940,Minnesota,Away,L,6,7,Nov 9 (Sat),
+1940,Northwestern,Home,W,20,13,Nov 16 (Sat),
+1940,Ohio State,Away,W,40,0,Nov 23 (Sat),
+1939,Michigan State,Home,W,26,13,Oct 7 (Sat),
+1939,Iowa,Home,W,27,7,Oct 14 (Sat),
+1939,Chicago,Away,W,85,0,Oct 21 (Sat),
+1939,Yale (HC),Home,W,27,7,Oct 28 (Sat),
+1939,Illinois,Away,L,7,16,Nov 4 (Sat),
+1939,Minnesota,Home,L,7,20,Nov 11 (Sat),
+1939,Pennsylvania,Away,W,19,17,Nov 18 (Sat),
+1939,Ohio State,Home,W,21,14,Nov 25 (Sat),
+1938,Michigan State,Home,W,14,0,Oct 1 (Sat),
+1938,Chicago,Home,W,45,7,Oct 8 (Sat),
+1938,Minnesota,Away,L,6,7,Oct 15 (Sat),
+1938,Yale,Away,W,15,13,Oct 22 (Sat),
+1938,Illinois (HC),Home,W,14,0,Oct 29 (Sat),
+1938,Penn,Home,W,19,13,Nov 5 (Sat),
+1938,Northwestern,Home,T,0,0,Nov 12 (Sat),
+1938,Ohio State,Away,W,18,0,Nov 19 (Sat),
+1937,Michigan State,Home,L,14,19,Oct 2 (Sat),
+1937,Northwestern,Away,L,0,7,Oct 9 (Sat),
+1937,Minnesota (HC),Home,L,6,39,Oct 16 (Sat),
+1937,Iowa,Away,W,7,6,Oct 23 (Sat),
+1937,Illinois,Away,W,7,6,Oct 30 (Sat),
+1937,Chicago,Home,W,13,12,Nov 6 (Sat),
+1937,Penn,Away,W,7,0,Nov 13 (Sat),
+1937,Ohio State,Home,L,0,21,Nov 20 (Sat),
+1936,Michigan State,Home,L,7,21,Oct 3 (Sat),
+1936,Indiana,Home,L,3,14,Oct 10 (Sat),
+1936,Minnesota,Away,L,0,26,Oct 17 (Sat),
+1936,Columbia,Home,W,13,0,Oct 24 (Sat),
+1936,Illinois (HC),Home,L,6,9,Oct 31 (Sat),
+1936,Penn,Away,L,7,27,Nov 7 (Sat),
+1936,Northwestern,Home,L,0,9,Nov 14 (Sat),
+1936,Ohio State,Away,L,0,21,Nov 21 (Sat),
+1935,Michigan State,Home,L,6,25,Oct 5 (Sat),
+1935,Indiana,Home,W,7,0,Oct 12 (Sat),
+1935,Wisconsin,Away,W,20,12,Oct 19 (Sat),
+1935,Columbia,Away,W,19,7,Oct 26 (Sat),
+1935,Penn (HC),Home,W,16,6,Nov 2 (Sat),
+1935,Illinois,Away,L,0,3,Nov 9 (Sat),
+1935,Minnesota,Home,L,0,40,Nov 16 (Sat),
+1935,Ohio State,Home,L,0,38,Nov 23 (Sat),
+1934,Michigan State,Home,L,0,16,Oct 6 (Sat),
+1934,Chicago,Away,L,0,27,Oct 13 (Sat),
+1934,Georgia Tech,Home,W,9,2,Oct 20 (Sat),
+1934,Illinois (HC),Home,L,6,7,Oct 27 (Sat),
+1934,Minnesota,Away,L,0,34,Nov 3 (Sat),
+1934,Wisconsin,Home,L,0,10,Nov 10 (Sat),
+1934,Ohio State,Away,L,0,34,Nov 17 (Sat),
+1934,Northwestern,Home,L,6,13,Nov 24 (Sat),
+1933,Michigan State,Home,W,20,6,Oct 7 (Sat),
+1933,Cornell,Home,W,40,0,Oct 14 (Sat),
+1933,Ohio State (HC),Home,W,13,0,Oct 21 (Sat),
+1933,Chicago,Away,W,28,0,Oct 28 (Sat),
+1933,Illinois,Away,W,7,6,Nov 4 (Sat),
+1933,Iowa,Home,W,10,6,Nov 11 (Sat),
+1933,Minnesota,Home,T,0,0,Nov 18 (Sat),
+1933,Northwestern,Away,W,13,10,Nov 25 (Sat),
+1932,Michigan State,Home,W,26,0,Oct 1 (Sat),
+1932,Northwestern,Home,W,15,6,Oct 8 (Sat),
+1932,Ohio State,Away,W,14,0,Oct 15 (Sat),
+1932,Illinois,Home,W,32,0,Oct 22 (Sat),
+1932,Princeton (HC),Home,W,14,7,Oct 29 (Sat),
+1932,Indiana,Away,W,7,0,Nov 5 (Sat),
+1932,Chicago,Home,W,12,0,Nov 12 (Sat),
+1932,Minnesota,Away,W,3,0,Nov 19 (Sat),
+1931,Central State Teachers,Home,W,27,0,Oct 3 (Sat),
+1931,Michigan Normal,Home,W,34,0,Oct 3 (Sat),
+1931,Chicago,Home,W,13,7,Oct 10 (Sat),
+1931,Ohio State,Home,L,7,20,Oct 17 (Sat),
+1931,Illinois,Away,W,35,0,Oct 24 (Sat),
+1931,Princeton,Away,W,21,0,Oct 31 (Sat),
+1931,Indiana,Home,W,22,0,Nov 7 (Sat),
+1931,Michigan State,Home,T,0,0,Nov 14 (Sat),
+1931,Minnesota (HC),Home,W,6,0,Nov 21 (Sat),
+1931,Wisconsin,Home,W,16,0,Nov 28 (Sat),
+1930,Denison,Home,W,33,0,Sep 27 (Sat),
+1930,Michigan Normal,Home,W,7,0,Sep 27 (Sat),
+1930,Michigan State,Home,T,0,0,Oct 4 (Sat),
+1930,Purdue,Home,W,14,13,Oct 11 (Sat),
+1930,Ohio State,Away,W,13,0,Oct 18 (Sat),
+1930,Illinois (HC),Home,W,15,7,Oct 25 (Sat),
+1930,Harvard,Away,W,6,3,Nov 8 (Sat),
+1930,Minnesota,Home,W,7,0,Nov 15 (Sat),
+1930,Chicago,Home,W,16,0,Nov 22 (Sat),
+1929,Mount Union,Home,W,16,6,Sep 28 (Sat),
+1929,Albion,Home,W,39,0,Sep 28 (Sat),
+1929,Michigan State,Home,W,17,0,Oct 5 (Sat),
+1929,Purdue,Away,L,16,30,Oct 12 (Sat),
+1929,Ohio State,Home,L,0,7,Oct 19 (Sat),
+1929,Illinois,Away,L,0,14,Oct 26 (Sat),
+1929,Harvard (HC),Home,W,14,12,Nov 9 (Sat),
+1929,Minnesota,Away,W,7,6,Nov 16 (Sat),
+1929,Iowa,Home,T,0,0,Nov 23 (Sat),
+1928,Ohio Wesleyan,Home,L,7,17,Oct 6 (Sat),
+1928,Indiana,Home,L,0,6,Oct 13 (Sat),
+1928,Ohio State,Away,L,7,19,Oct 20 (Sat),
+1928,Wisconsin,Home,L,0,7,Oct 27 (Sat),
+1928,Illinois,Home,W,3,0,Nov 3 (Sat),
+1928,Navy,,T,6,6,Nov 10 (Sat),
+1928,Michigan State,Home,W,3,0,Nov 17 (Sat),
+1928,Iowa (HC),Home,W,10,7,Nov 24 (Sat),
+1927,Ohio Wesleyan,Home,W,33,0,Oct 1 (Sat),
+1927,Michigan State,Home,W,21,0,Oct 8 (Sat),
+1927,Wisconsin,Away,W,14,0,Oct 15 (Sat),
+1927,Ohio State,Home,W,21,0,Oct 22 (Sat),
+1927,Illinois,Away,L,0,14,Oct 29 (Sat),
+1927,Chicago,Away,W,14,0,Nov 5 (Sat),
+1927,Navy,Home,W,27,12,Nov 12 (Sat),
+1927,Minnesota (HC),Home,L,7,13,Nov 19 (Sat),
+1926,Oklahoma A&M,Home,W,42,3,Oct 2 (Sat),
+1926,Michigan State,Home,W,55,3,Oct 9 (Sat),
+1926,Minnesota,Home,W,20,0,Oct 16 (Sat),
+1926,Illinois (HC),Home,W,13,0,Oct 23 (Sat),
+1926,Navy,,L,0,10,Oct 30 (Sat),
+1926,Wisconsin,Home,W,37,0,Nov 6 (Sat),
+1926,Ohio State,Away,W,17,16,Nov 13 (Sat),
+1926,Minnesota,Away,W,7,6,Nov 20 (Sat),
+1925,Michigan State,Home,W,39,0,Oct 3 (Sat),
+1925,Indiana,Home,W,63,0,Oct 10 (Sat),
+1925,Wisconsin,Away,W,21,0,Oct 17 (Sat),
+1925,Illinois,Away,W,3,0,Oct 24 (Sat),
+1925,Navy,Home,W,54,0,Oct 31 (Sat),
+1925,Northwestern,,L,2,3,Nov 7 (Sat),
+1925,Ohio State,Home,W,10,0,Nov 14 (Sat),
+1925,Minnesota (HC),Home,W,35,0,Nov 21 (Sat),
+1924,Miami (Ohio),Home,W,55,0,Oct 4 (Sat),
+1924,Michigan Agricultural,Away,W,7,0,Oct 10 (Fri),
+1924,Illinois,Away,L,14,39,Oct 18 (Sat),
+1924,Wisconsin,Home,W,21,0,Oct 25 (Sat),
+1924,Minnesota,Away,W,13,0,Nov 1 (Sat),
+1924,Northwestern,Home,W,27,0,Nov 8 (Sat),
+1924,Ohio State,Away,W,16,6,Nov 15 (Sat),
+1924,Iowa (HC),Home,L,2,9,Nov 22 (Sat),
