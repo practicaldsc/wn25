@@ -1,5 +1,6 @@
 """
 Imports and helpful functions that we use in Practical Data Science lectures.
+Last updated January 8, 2025.
 
 Usage:
 
@@ -7,12 +8,7 @@ from lec_utils import *
 """
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from matplotlib_inline.backend_inline import set_matplotlib_formats
-from IPython.display import display, IFrame, HTML
-
-from pathlib import Path
+from IPython.display import display, IFrame, HTML, Markdown, YouTubeVideo, clear_output
 
 import plotly
 import plotly.figure_factory as ff
@@ -34,11 +30,6 @@ pio.templates["pds"] = go.layout.Template(
     )
 )
 pio.templates.default = "simple_white+pds"
-
-set_matplotlib_formats("svg")
-sns.set_context("poster")
-sns.set_style("whitegrid")
-plt.rcParams["figure.figsize"] = (10, 5)
 
 # display options for numpy and pandas
 np.set_printoptions(threshold=20, precision=2, suppress=True)
@@ -73,3 +64,13 @@ def dfs_side_by_side(*dfs):
     """
         )
     )
+
+# Added imports for Winter 2025 (taken from later lectures in Fall 2024)
+from PIL import Image
+import requests
+import re
+
+import warnings
+warnings.simplefilter('ignore')
+
+from ipywidgets import widgets, interact, FloatSlider, IntSlider
