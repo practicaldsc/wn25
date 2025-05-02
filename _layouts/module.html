@@ -1,0 +1,113 @@
+<div class="module">
+  <h3 class="module-header" id="{{ page.title | slugify }}">{{ page.title }}</h3>
+  {% if page.days %}
+  <dl class="module-days">
+    {% for day in page.days %}
+      <dt class="module-day main">{{ day.date | date: '%a %b %e' }}</dt>
+      {% for event in day.events %}
+        {% if event.markdown_content %}
+          <dd class="module-event{% if forloop.first %} main{% endif %}">
+            {{ event.markdown_content | markdownify }}
+          </dd>
+        {% else %}
+          <dd class="module-event{% if forloop.first %} main{% endif %}">
+            <p>
+              {% if event.type %}
+              <strong class="label label-{{ event.type }}">
+                {{ event.name }}
+              </strong>
+              {% endif %}
+              {% if event.url %}
+                <a href="{{ event.url }}">{{ event.title }}</a>
+              {% else %}
+                {{ event.title }}
+              {% endif %}
+            </p>
+            <div class="event-links">
+                {%- if event.type == "lecture" or event.type == "review" or event.type == "exam" -%}
+                {%- if event.blank_slides -%}
+                <small><a href="{{ event.blank_slides }}" class="btn btn-info btn-sm">🌗 blank slides</a></small>
+                {%- endif -%}
+                {%- if event.filled_slides -%}
+                <small><a href="{{ event.filled_slides }}" class="btn btn-info btn-sm">📝 filled slides</a></small>
+                {%- endif -%}
+                {%- if event.html -%}
+                <a href="{{ event.html }}" class="btn btn-info btn-sm">📝 filled html</a>
+                {%- endif -%}
+                {%- if event.problems -%}
+                <a href="{{ event.problems }}" class="btn btn-info btn-sm">🧠 problems</a>
+                {%- endif -%}
+                {%- if event.extra -%}
+                <a href="{{ event.extra }}" class="btn btn-info btn-sm">🎁 {{ event.extra_text }}</a>
+                {%- endif -%}
+                {%- if event.annotations -%}
+                <a href="{{ event.annotations }}" class="btn btn-info btn-sm">✍️ annotations</a>
+                {%- endif -%}
+                {%- if event.github -%}
+                <a href="{{ event.github }}" class="btn btn-info btn-sm">{% include icon-github.html %} GitHub</a>
+                {%- endif -%}
+                {%- if event.recording -%}
+                <a href="{{ event.recording }}" class="btn btn-info btn-sm">🎥 recording</a>
+                {%- endif -%}
+                {%- if event.guide -%}
+                <small><a href="{{ event.guide }}" class="btn btn-info btn-sm">🧑‍🤝‍🧑 Guide: {{ event.guide_title }}</a></small>
+                {%- endif -%}
+                {%- if event.animations -%}
+                <a href="{{ event.animations }}" class="btn btn-info btn-sm">🧮 animations</a>
+                {%- endif -%}
+                {%- if event.videos -%}
+                <a href="{{ event.videos }}" class="btn btn-info btn-sm">⏯️ videos</a>
+                {%- endif -%}
+                {%- if event.reading and event.reading_text -%}
+                <a href="{{ event.reading }}" class="btn btn-info btn-sm">📕 Read: {{ event.reading_text }}</a>
+                {%- endif -%}
+                {%- if event.reading2 and event.reading2_text -%}
+                <a href="{{ event.reading2 }}" class="btn btn-info btn-sm">📕 Read: {{ event.reading2_text }}</a>
+                {%- endif -%}
+              {%- endif -%}
+              {%- if event.type == "hw" or event.type == "disc" or event.type == "proj" -%}
+                {%- if event.slides -%}
+                <small><a href="{{ event.slides }}" class="btn btn-info btn-sm">🧑‍🏫 mini-lecture slides</a></small>
+                {%- endif -%}
+                {%- if event.problems -%}
+                <a href="{{ event.problems }}" class="btn btn-info btn-sm">🧠 worksheet</a>
+                {%- endif -%}
+                {%- if event.specifications -%}
+                <a href="{{ event.specifications }}" class="btn btn-info btn-sm">✅ specifications</a>
+                {%- endif -%}
+                {%- if event.gradescope -%}
+                <a href="{{ event.gradescope }}" class="btn btn-info btn-sm">✅ submission</a>
+                {%- endif -%}
+                {%- if event.github -%}
+                <a href="{{ event.github }}" class="btn btn-info btn-sm">{% include icon-github.html %} GitHub</a>
+                {%- endif -%}
+                {%- if event.reading and event.reading_text -%}
+                <a href="{{ event.reading }}" class="btn btn-info btn-sm">📕 Read: {{ event.reading_text }}</a>
+                {%- endif -%}
+                {%- if event.template -%}
+                <a href="{{ event.template }}" class="btn btn-info btn-sm">🍃 template</a>
+                {%- endif -%}
+                {%- if event.walkthrough -%}
+                <a href="{{ event.walkthrough }}" class="btn btn-info btn-sm">🎥 walkthrough</a>
+                {%- endif -%}
+                {%- if event.solutions -%}
+                <a href="{{ event.solutions }}" class="btn btn-info btn-sm">📝 solutions</a>
+                {%- endif -%}
+              {%- endif -%}
+              {%- if event.note -%}
+              <br><p><small>{{ event.note }}</small></p>
+              {%- endif -%}
+            </div>
+          </dd>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </dl>
+  {% endif %}
+  {% assign content_strip = content | strip %}
+  {% if content_strip != "" %}
+  <div class="module-body">
+    <small>{{ content }}</small>
+  </div>
+  {% endif %}
+</div>

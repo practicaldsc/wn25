@@ -1,0 +1,115 @@
+// Just the Class dependencies
+@import 'card';
+
+// Just the Class styles
+@import 'announcement';
+@import 'module';
+@import 'schedule';
+@import 'staffer';
+
+@import 'mixins';
+
+
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+// details {
+//   @extend .mb-4;
+// }
+
+// summary {
+//   @extend .btn, .btn-outline;
+
+//   width: 100%;
+// }
+
+.main-content-wrap {
+  max-width: $content-width;
+  margin: auto;
+}
+
+// .main-content {
+//   dl {
+//     display: block;
+//     grid-template-columns: none;
+//   }
+
+//   dt {
+//     font-weight: 700;
+//     text-align: start;
+
+//     &::after {
+//       content: normal;
+//     }
+//   }
+
+//   dd {
+//     font-weight: normal;
+
+//     + dt {
+//       margin-top: 1em;
+//     }
+//   }
+// }
+
+$link-color: #0066cc;
+
+.aux-nav-list-item a[href*="github.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-image: url("../../assets/site-images/github-mark.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.aux-nav-list-item a[href*="edstem.org"]::before {
+  content: '';
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-image: url("../../assets/site-images/ed.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.aux-nav-list-item a[href*="gradescope.com"]::before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url("../../assets/site-images/gradescope.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+// header bar sticky scroll
+#main-header {
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  // background-color: #333; /* Adjust this to fit your theme */
+  padding: 10px;
+}
+
+/* Adjust for sticky header overlap */
+/* Offset the position of any anchored elements */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 80px; /* Adjust based on the height of your sticky toolbar */
+}
