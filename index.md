@@ -6,6 +6,9 @@ description: >-
 nav_order: 1
 ---
 
+{: .red }
+**This is the course website for a previous iteration of the course. If you’re looking for the most recent course website, look at [practicaldsc.org](https://practicaldsc.org).**
+
 # Practical Data Science 🛠️
 {: .no_toc }
 {: .mb-2 }
@@ -19,13 +22,9 @@ EECS 398, Winter 2025 at the <b><span style="background-color: #FFCB05; color: #
 {{ staffer }}
 {% endfor %}
 
-{: .green }
-> The Final Exam is on **Monday, April 28th from 10:30AM-12:30PM**. Find your assigned room and other logistics [**here**](https://edstem.org/us/courses/69737/discussion/6600862).
->
-> We have one more review session this week, on Saturday 4/26 from 1-3PM in 1670 BBB. Attempt the worksheet (linked below) **before** coming.
-
+<!-- 
 [Jump to Week 16: Conclusion, Review](#week-16-conclusion-review){: .btn .btn-green } [Announcements 📣](https://edstem.org/us/courses/69737/discussion/5943734){: .btn .btn-purple }
-
+ -->
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
